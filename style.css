@@ -81,3 +81,11 @@ th, td {
   height: 100px;
   border-radius: 50%;
 }
+
+a{
+  transition: color 0.3s;
+}
+
+a:hover{
+  color : #ff00ff;
+}
