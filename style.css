@@ -47,7 +47,7 @@ ul {
   list-style: none;
 }
 li:before {
-  content: "〇";
+  content: "●";
   color: var(--theme-color);
 }
 
