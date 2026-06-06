@@ -47,7 +47,7 @@ ul {
   list-style: none;
 }
 li:before {
-  content: "★";
+  content: "〇";
   color: var(--theme-color);
 }
 
@@ -74,4 +74,10 @@ th {
 th, td {
   border: solid 1px #f0f0f0;
   padding: 0.5rem;
+}
+
+ .circle img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
 }
